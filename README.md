@@ -19,8 +19,15 @@
 ? };
 
 ## PREVIEWS.
-https://github.com/user-attachments/assets/721f477c-870c-4ccf-93a6-adc416483264
-https://github.com/user-attachments/assets/f26fa47c-65ea-4f5d-80c1-dbed78d12aae
+
+
+https://github.com/user-attachments/assets/8f8b49c8-c2e7-4f82-b37f-4b0393129e20
+
+
+
+https://github.com/user-attachments/assets/64a46b63-ccb7-4689-8bfa-a018632f4c7f
+
+<img width="1917" height="861" alt="image" src="https://github.com/user-attachments/assets/45873097-112e-4304-9a46-b8088d24fe89" />
 
 ## Discord.
 > Here is my Discord Invite:- https://discord.gg/Qvn4jxtTJ6
