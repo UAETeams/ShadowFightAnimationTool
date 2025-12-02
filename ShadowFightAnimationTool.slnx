@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ShadowFightAnimationTool/ShadowFightAnimationTool.vcxproj" Id="49306a86-a336-4320-bf99-16db7e4e1c7d" />
+</Solution>
