@@ -53,9 +53,9 @@ int main()
 				}
 			}
 		}
-		cout << "Press Enter to exit...";
-        cin.ignore();
-        cin.get(); 
+		std::cout << "\n\nPress Enter to exit...";
+		std::cin.ignore();
+		std::cin.get(); 
 	}
 	catch (_exception e)
 	{
