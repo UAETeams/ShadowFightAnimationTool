@@ -53,6 +53,9 @@ int main()
 				}
 			}
 		}
+		cout << "Press Enter to exit...";
+        cin.ignore();
+        cin.get(); 
 	}
 	catch (_exception e)
 	{
