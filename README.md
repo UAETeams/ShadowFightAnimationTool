@@ -19,8 +19,8 @@
 ? };
 
 ## PREVIEWS.
-> https://github.com/user-attachments/assets/721f477c-870c-4ccf-93a6-adc416483264
-> https://github.com/user-attachments/assets/f26fa47c-65ea-4f5d-80c1-dbed78d12aae
+https://github.com/user-attachments/assets/721f477c-870c-4ccf-93a6-adc416483264
+https://github.com/user-attachments/assets/f26fa47c-65ea-4f5d-80c1-dbed78d12aae
 
 ## Discord.
 > Here is my Discord Invite:- https://discord.gg/Qvn4jxtTJ6
